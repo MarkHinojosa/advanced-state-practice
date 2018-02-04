@@ -8,7 +8,6 @@ class Reviews extends React.Component {
     }
   }
 
-
   render(){
     const displayReviews = (reviews) => {
       if(this.state.visible === true){
